@@ -1,2 +1,2 @@
 # -Restaurant-Database-Management-System-
-Designed and implemented a comprehensive restaurant database system using ERDPlus, SQL, and  MariaDB. It covered all operational aspects like order management, inventory tracking, and staff  allocation while delivering actionable business insights through advanced queries using joins,  aggregations, and window functions.
+Link for data: https://drive.google.com/drive/folders/1r7ze99HRLhuRIlxC0eoNWFwb6DTJSkRn?usp=drive_link
